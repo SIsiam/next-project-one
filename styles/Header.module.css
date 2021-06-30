@@ -1,0 +1,22 @@
+.bg{
+    background-image: url(../Images/Homepage_header-0321.jpg);   
+    display: block;
+    background-position: 50%;
+    background-repeat: no-repeat;
+    padding: 50px;
+}
+.chartSection {
+    background: #2a0f57;
+    color: #fff;
+    padding-top: 60px;
+    padding-bottom: 60px;
+    position: relative;
+    overflow: hidden;;
+    margin-bottom: 80px;
+}
+.chartSection h1 {
+    font-size: 50px;
+}
+.chartSection p {
+    font-size: 20px;
+}

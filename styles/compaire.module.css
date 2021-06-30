@@ -1,0 +1,6 @@
+.bg {
+    min-height: 500px;
+    background: linear-gradient(90deg,#2a0f57 0,#2a0f57 50%,#eb5646 0,#eb5646);
+    margin-bottom: 100px;
+    padding-bottom: 50px;
+}
